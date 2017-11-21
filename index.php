@@ -5,20 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tablemore</title>
     <link rel="stylesheet" href="css/master.css">
-    <style>
-    body{
-	    font-family:Times,"Times New Roman",serif;
-        font-size: 125%;
-        font-weight: normal;
-    }
-    .center{
-        text-align:center;
-    }
-    h1,h2,h3{
-        color:maroon;
-        text-align: center;
-    }
-    </style>
 </head>
 <body>
 <table class="container">
